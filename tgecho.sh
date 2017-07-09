@@ -1,7 +1,7 @@
 #!/bin/sh
 
 message='Message goes here'
-apiToken=TokenGoesHere#i.e. 123456789:ABCDEFGLKJASHDFLKJSDHF
+apiToken=TokenGoesHere #i.e. 123456789:ABCDEFGLKJASHDFLKJSDHF
 userChatId=ChatIDGoesHere #i.e. -123456789
 
 sendTelegram() {
